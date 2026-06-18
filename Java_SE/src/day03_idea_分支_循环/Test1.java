@@ -1,4 +1,5 @@
 package day03_idea_分支_循环;
+
 import java.util.Scanner;
 
 //让用户依次录入三个整数，求出三个数中的最大值，并打印到控制台。【使用if】
@@ -14,7 +15,7 @@ public class Test1 {
         } else {
             max = b;
         }
-        if (c > max){
+        if (c > max) {
             max = c;
         }
         System.out.println(max);
