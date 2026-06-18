@@ -1,5 +1,4 @@
 package day01_Java入门;
-
 public class Test8 {
     public static void main(String[] args) {
         int x = 100;

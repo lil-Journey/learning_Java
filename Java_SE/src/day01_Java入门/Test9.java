@@ -1,5 +1,4 @@
 package day01_Java入门;
-
 public class Test9 {
     public static void main(String[] args) {
         double x = 100.8;

@@ -1,5 +1,4 @@
 package day02_变量_类型转换_运算符;
-
 public class Test4 {
     public static void main(String[] args) {
         int a1 = 10, a2 = 11;

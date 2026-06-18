@@ -11,7 +11,6 @@
 控制台输出 5 行字符类型常量值
 */
 package day01_Java入门;
-
 public class Test1 {
     public static void main(String[] args0) {
         System.out.println("hello world");

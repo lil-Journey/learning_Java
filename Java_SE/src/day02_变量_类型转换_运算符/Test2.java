@@ -1,5 +1,4 @@
 package day02_变量_类型转换_运算符;
-
 public class Test2 {
     public static void main(String[] args) {
         int i1 = 100;

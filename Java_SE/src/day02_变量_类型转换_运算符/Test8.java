@@ -1,5 +1,4 @@
 package day02_变量_类型转换_运算符;
-
 public class Test8 {
     public static void main(String[] args) {
         int x = 123, y = 456, z = 234;

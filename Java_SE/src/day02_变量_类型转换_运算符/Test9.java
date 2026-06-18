@@ -1,5 +1,4 @@
 package day02_变量_类型转换_运算符;
-
 public class Test9 {
     public static void main(String[] args) {
         int year = 2026;
