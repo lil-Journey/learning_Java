@@ -21,6 +21,6 @@ public class Test6 {
                 count += 1;
             }
         }
-        System.out.println(count);
+        System.out.println("以上满足条件的四位数总共有 " + count + " 个");
     }
 }
