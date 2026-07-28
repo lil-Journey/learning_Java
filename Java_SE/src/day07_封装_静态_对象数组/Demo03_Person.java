@@ -5,13 +5,14 @@ public class Demo03_Person {
     private int age;
 
     public Demo03_Person() {
-
     }
+
     public Demo03_Person(String name, int age) {
         this.name = name;
         this.age = age;
     }
-    public String getName() { //提供get方法
+
+    public String getName() {
         return name;
     }
 
@@ -24,11 +25,6 @@ public class Demo03_Person {
     }
 
     public void setAge(int age) {
-        if (age < 0 || age > 100) {
-            System.out.println("age is out of range");
-            this.age = 0;
-        } else {
-            this.age = age;
-        }
+        this.age = age;
     }
 }
